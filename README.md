@@ -1,2 +1,7 @@
-# FinalApp2
-This is the fully completed app, I included a .txt file in my submission that contains video URLs which can be stored and played within the app.
+# Videos App
+APP functionality.
+
+App using SQLite database to store URL and title of videos.
+RecyclerView with custom adapter to show videos list
+Video player to play video
+Broadcast receiver to show notification when video playing.
